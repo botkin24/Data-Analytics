@@ -30,5 +30,5 @@
 
 ### **Инструменты**
 ```python
-["Python", "Jupyter", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-learn"]
+["Python", "SQL", "Jupyter", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-learn"]
 
