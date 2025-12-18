@@ -32,4 +32,4 @@ games-market-analysis/
 
 ├── data/ # Исходные данные
 
-│ ├── games.csv # Данасет продаж игр
+│ ├── games.csv # Датасет продаж игр
