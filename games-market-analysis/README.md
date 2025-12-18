@@ -28,8 +28,8 @@ games-market-analysis/
 
 ├── README.md # Этот файл
 
-├── game_market_analysis.ipynb # Основной ноутбук с анализом
+├── [game_market_analysis.ipynb](./game_market_analysis.ipynb) # Основной ноутбук с анализом
 
-├── data/ # Исходные данные
+├── [data/](./data/) # Исходные данные
 
 │ ├── games.csv # Датасет продаж игр
