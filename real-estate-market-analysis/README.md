@@ -64,6 +64,6 @@
 ```bash
 real-estate-market-analysis/
 ├── README.md                        # Этот файл
-├── analysis.ipynb       # Основной ноутбук с анализом
+├── analysis.ipynb                   # Основной ноутбук с анализом
 └── data/                            # Исходные данные
     └── real_estate_data.csv         # Архив объявлений Яндекс.Недвижимость
