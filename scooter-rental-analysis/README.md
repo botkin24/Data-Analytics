@@ -41,11 +41,11 @@
 ```bash
 scooter-rental-analysis/
 ├── README.md                 # Этот файл
-├── gofast_analysis.ipynb     # Основной ноутбук с полным анализом
+├── analysis.ipynb            # Основной ноутбук с полным анализом
 └── data/                     # Исходные данные
-    ├── users_go.csv         # Данные о пользователях
-    ├── rides_go.csv         # Данные о поездках  
-    └── subscriptions_go.csv # Данные о тарифах
+    ├── users_go.csv          # Данные о пользователях
+    ├── rides_go.csv          # Данные о поездках  
+    └── subscriptions_go.csv  # Данные о тарифах
 ```
 
 ## 📊 Описание данных
