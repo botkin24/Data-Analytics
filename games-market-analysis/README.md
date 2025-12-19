@@ -24,13 +24,11 @@
 
 ## 📁 Структура проекта
 
+```bash
 games-market-analysis/
-
-├── README.md # Этот файл
-
-├── [game_market_analysis.ipynb](./game_market_analysis.ipynb) # Основной ноутбук с анализом
-
-├── [data/](./data/) # Исходные данные
-
-│ ├── games.csv # Датасет продаж игр
+├── README.md                 # Этот файл
+├── analysis.ipynb            # Основной ноутбук с полным анализом
+└── data/                     # Исходные данные
+    └── games.csv             # Датасет продаж игр
+```
 
